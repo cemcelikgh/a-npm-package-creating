@@ -1,9 +1,6 @@
-# create_npm_package-patika
-Patika React Task 5<br>
-Create npm Package<br>
-create-react-library
-
-[Patika Academy](https://academy.patika.dev/tr "Öğrenme yolculuğuna başla")
+# a-npm-package-creating
+Patika Intermediate Frontend Web Development Path Certification Task
+<br>A NPM Package Creating
 
 <br>
 
