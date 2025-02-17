@@ -1,11 +1,11 @@
 {
-  "short_name": "red-green-blue-buttons",
+  "short_name": "RGB Buttons",
   "name": "red-green-blue-buttons",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "%PUBLIC_URL%/rgb.svg",
+      "sizes": "64x64 24x24 16x16",
+      "type": "image/svg+xml"
     }
   ],
   "start_url": ".",

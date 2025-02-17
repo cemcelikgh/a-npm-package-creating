@@ -1,7 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-import { Button } from 'red-green-blue-buttons'
-import 'red-green-blue-buttons/dist/index.css'
+import { Button } from 'red-green-blue-buttons';
+import 'red-green-blue-buttons/dist/index.css';
 
 const App = () => {
   return(
@@ -14,4 +14,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
