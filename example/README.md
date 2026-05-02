@@ -1,5 +1,7 @@
-# rgb-buttons-example
+# red-green-blue-buttons-example
 Patika Intermediate Frontend Web Development Path Certification Task
-<br>RGB Buttons Example
+<br>red-green-blue-buttons example
 
-![Weather Forecast Preview](./public/a-npm-package-creating.png)
+Display: <https://red-green-blue-buttons.netlify.app/>
+
+[![red-green-blue-buttons example Preview](./public/red-green-blue-buttons.png "Display red-green-blue-buttons example")](https://red-green-blue-buttons.netlify.app/)
